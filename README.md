@@ -73,3 +73,9 @@ Focused on:
 <p align="center">
   <i>Build with intention. Scale with intelligence.</i>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ercanpolatt/ercanpolatt/output/github-contribution-grid-snake-dark.svg" />
+</p>
