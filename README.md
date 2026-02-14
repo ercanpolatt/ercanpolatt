@@ -8,8 +8,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS)
-
 ![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)
+
 </div>
 
 ---
@@ -32,7 +32,7 @@ Currently, I am exploring advanced ML architectures, AI agents, and data-driven 
 
 
 <div align="center">
-
+---
 ## ◈ ENGINEERING STATS
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=black-ice&hide_border=true&background=0d0d0d&stroke=00f0ff&ring=00f0ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=888888" height="180"/>
