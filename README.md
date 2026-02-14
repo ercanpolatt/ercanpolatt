@@ -57,7 +57,7 @@ Currently, I am exploring advanced ML architectures, AI agents, and data-driven 
 ## ◈ LET'S CONNECT
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://ercanpolatt.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ercan-polat-841049223/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ercan-polat-841049223/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ercanpolat.tr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ercanpolatt)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ercanpolat.61/)
