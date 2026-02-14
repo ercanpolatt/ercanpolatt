@@ -1,34 +1,62 @@
-<div align="center">
+# Selam! Ben Ercan Polat 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00f0ff&height=200&section=header&text=Ercan%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20System%20Thinker&descAlignY=60&descSize=18&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+%F0%9F%A7%A0;Building+Scalable+Architectures+%F0%9F%8F%97%EF%B8%8F;Turning+Data+Into+Strategy+%F0%9F%93%8A;Engineering+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/ercanpolatt)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ercanpolatt&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="ercanpolatt" />
+</p>
 
 ---
 
-### ◈ WHO AM I
+### 🚀 Hakkımda
 
-```python
-class ErcanPolat:
-    def __init__(self):
-        self.role       = ["AI Engineer", "Full Stack Developer"]
-        self.location   = "Turkey 🇹🇷"
-        self.motto      = "Build with intention. Scale with intelligence."
+Ben, sürekli öğrenmeye ve üretmeye odaklanmış bir **Bilgisayar Mühendisi** adayıyım. Yazılım dünyasında özellikle **C++**, **Oyun Geliştirme (Unity)** ve **Bilgisayar Ağları (Networking)** konularına ilgi duyuyorum. Karmaşık problemleri çözmeyi ve performansı optimize edilmiş projeler geliştirmeyi seviyorum.
 
-    def current_focus(self):
-        return {
-            "building"  : "Intelligent, data-driven systems",
-            "learning"  : "Advanced ML & LLM architectures",
-            "exploring" : "AI agents & autonomous pipelines"
-        }
+- 🎓 **Eğitim:** Bilgisayar Mühendisliği Son Sınıf Öğrencisi
+- 🛠️ **Şu an ne yapıyorum?:** C++ ile ileri seviye algoritmalar ve Unity ile 2D oyun mekanikleri üzerine çalışıyorum.
+- 📡 **İlgi Alanlarım:** Network Mimarileri (TCP/IP, DNS), Game Development, AI Sistemleri.
+- 🌱 **Öğrenmeye Devam:** İngilizce profesyonel iletişim ve modern C++ kütüphaneleri.
 
-# Initializing profile...
-me = ErcanPolat()
-print(f"Status: {me.current_focus()['building']}")
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ercanpolatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanpolatt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Benimle İletişime Geç
+
+Proje fikirleri, iş birlikleri veya sadece sohbet etmek için bana aşağıdaki kanallardan ulaşabilirsin:
+
+<p align="left">
+  <a href="https://ercanpolatt.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ercan-polat-841049223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ercanpolat.tr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
+  ⭐️ <b>Profilimi ziyaret ettiğin için teşekkürler!</b>
+</p>
