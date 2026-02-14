@@ -7,8 +7,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)
+<img src="https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS"/>
+
 
 </div>
 
@@ -30,8 +31,13 @@ I approach engineering as structured problem solving — designing systems that 
 Currently, I am exploring advanced ML architectures, AI agents, and data-driven applications while continuously improving my software engineering foundations.
 </p>
 
+---
+
 <div align="center">
-<div>## ◈ ENGINEERING STATS</div>
+
+## ◈ ENGINEERING STATS
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=black-ice&hide_border=true&background=0d0d0d&stroke=00f0ff&ring=00f0ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=888888" height="180"/>
 
