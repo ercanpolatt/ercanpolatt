@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00f0ff&height=200&section=header&text=Ercan%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20System%20Thinker&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00f0ff&height=220&section=header&text=Ercan%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Computer%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+%F0%9F%A7%A0;Building+Scalable+Architectures+%F0%9F%8F%97%EF%B8%8F;Turning+Data+Into+Strategy+%F0%9F%93%8A;Engineering+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/ercanpolatt)
 
+![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)
 </div>
 
 ---
@@ -20,8 +21,7 @@
 </div>
 
 
-<p> ## Who Am I?
-
+<p> 
 I am a Computer Engineer focused on building intelligent and scalable systems.  
 My primary interests lie in Artificial Intelligence, Machine Learning, and modern Full Stack development.
 
@@ -47,19 +47,6 @@ Currently, I am exploring advanced ML architectures, AI agents, and data-driven 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ercanpolatt&theme=tokyo-night&bg_color=0d0d0d&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-## ◈ ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=ercanpolatt&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -69,6 +56,7 @@ Currently, I am exploring advanced ML architectures, AI agents, and data-driven 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ercan-polat-841049223/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ercanpolat.tr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ercanpolatt)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ercanpolat.61/)
 
 
 </div>
