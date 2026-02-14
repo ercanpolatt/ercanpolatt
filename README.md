@@ -31,7 +31,7 @@ Currently, I am exploring advanced ML architectures, AI agents, and data-driven 
 </p>
 
 <div align="center">
-## ◈ ENGINEERING STATS
+<div>## ◈ ENGINEERING STATS</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=black-ice&hide_border=true&background=0d0d0d&stroke=00f0ff&ring=00f0ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=888888" height="180"/>
 
