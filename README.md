@@ -30,8 +30,6 @@ I approach engineering as structured problem solving — designing systems that 
 Currently, I am exploring advanced ML architectures, AI agents, and data-driven applications while continuously improving my software engineering foundations.
 </p>
 
----
-
 <div align="center">
 ## ◈ ENGINEERING STATS
 
