@@ -1,235 +1,131 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ercan%20Polat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=60&descSize=18&descColor=7ecfff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00f0ff&height=200&section=header&text=Ercan%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20System%20Thinker&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%8C%90;Data+Science+%26+Analytics+%F0%9F%93%8A;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+%F0%9F%A7%A0;Building+Scalable+Architectures+%F0%9F%8F%97%EF%B8%8F;Turning+Data+Into+Strategy+%F0%9F%93%8A;Engineering+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ercanpolatt.github.io-0f2027?style=for-the-badge&logoColor=white)](https://ercanpolatt.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ercan_Polat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ercan-polat-841049223/)
-[![Gmail](https://img.shields.io/badge/Gmail-ercanpolat.tr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercanpolat.tr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ercanpolatt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ercanpolatt)
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ercanpolatt&style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ercanpolatt?style=for-the-badge&color=00f0ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/ercanpolatt)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```python
+## ◈ WHO AM I
+
+</div>
+
+\`\`\`python
 class ErcanPolat:
     def __init__(self):
-        self.name       = "Ercan Polat"
-        self.role       = ["AI Engineer", "Full Stack Developer", "Data Scientist"]
-        self.education  = "B.Sc. Computer Engineering @ Amasya University (75.12/100)"
-        self.location   = "Turkey 🇹🇷"
-        self.languages  = ["Python", "JavaScript", "Dart", "SQL"]
-        self.passion    = "Turning complex problems into elegant solutions"
-        self.coffee     = True  # ☕ Essential for debugging
+        self.name        = "Ercan Polat"
+        self.role        = ["AI Engineer", "Full Stack Developer", "System Thinker"]
+        self.location    = "Turkey 🇹🇷"
+        self.focus       = ["Artificial Intelligence", "ML Systems", "Scalable Architectures"]
+        self.motto       = "Build with intention. Scale with intelligence."
 
-    def current_focus(self):
-        return [
-            "🤖 Deepening AI & Machine Learning expertise",
-            "🌐 Building scalable full-stack applications",
-            "📊 Data-driven decision making",
-            "📱 Cross-platform mobile development"
-        ]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-
-me = ErcanPolat()
-me.say_hi()
-```
+    def current_work(self):
+        return {
+            "building"  : "Intelligent, data-driven systems",
+            "learning"  : "Advanced ML & LLM architectures",
+            "exploring" : "AI agents & autonomous pipelines",
+        }
+\`\`\`
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ◈ CORE STACK
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages & Frameworks**
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f0ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00f0ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00f0ff)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00f0ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00f0ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
 
-### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP%20%2F%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**AI / ML**
 
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=00f0ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00f0ff)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=00f0ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=00f0ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=00f0ff)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00f0ff)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=00f0ff)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00f0ff)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00f0ff)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00f0ff)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ercanpolatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanpolatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+## ◈ ENGINEERING STATS
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ercanpolatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanpolatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&text_color=ffffff" height="180"/>
 
-<div align="center">
+<br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=tokyonight&hide_border=true&background=0d1117&stroke=7ecfff&ring=7ecfff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ecfff&sideLabels=7ecfff&dates=8b949e"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ercanpolatt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=black-ice&hide_border=true&background=0d0d0d&stroke=00f0ff&ring=00f0ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=888888" height="180"/>
 
 </div>
 
 ---
 
-## 📈 Skill Progress
-
-| Skill | Proficiency |
-|-------|-------------|
-| 🎨 HTML/CSS | `████████████████████` 90% |
-| ⚛️ React.js | `█████████████████░░░` 85% |
-| 🗃️ SQL | `█████████████████░░░` 85% |
-| 📊 Data Analysis | `█████████████████░░░` 85% |
-| 🟨 JavaScript | `████████████████░░░░` 80% |
-| 📱 React Native | `████████████████░░░░` 80% |
-| 🤖 NLP / LLM | `████████████████░░░░` 80% |
-| 🐍 Python / Flask | `███████████████░░░░░` 75% |
-| 🐧 Linux / Bash | `███████████████░░░░░` 75% |
-| 🟢 Node.js | `██████████████░░░░░░` 70% |
-| 🧠 TensorFlow | `██████████████░░░░░░` 70% |
-| 🐳 Docker | `█████████████░░░░░░░` 65% |
-| 💙 Flutter | `█████████████░░░░░░░` 65% |
-
----
-
-## 🎓 Education & Experience
-
-```
-📚 EDUCATION
-├── 🏫 Karacabey Anatolian High School             2020
-│       └── Strong foundation in Mathematics & Science
-│
-├── 🎓 Amasya University — Computer Engineering    2025
-│       └── GPA: 75.12 / 100
-│       └── Focus: Software Development & AI
-│
-└── 💼 WORK EXPERIENCE
-        └── 🏢 DP World Evyap — Intern             2025
-                ├── Software Development
-                ├── Technical Support
-                └── Improved technical & communication skills
-```
-
----
-
-## 📜 Certifications
-
 <div align="center">
 
-| 🏅 Certificate | 🏛️ Institution | 📅 Date |
-|---|---|---|
-| 🤖 ChatGPT 2026: Prompt Engineering | Udemy / Atıl Samancıoğlu | Feb 2026 |
-| 🛡️ Cybersecurity Introduction | BTK Academy | Oct 2025 |
-| 🌐 IT Fundamentals | BTK Academy | Oct 2025 |
-| 🔌 Network Fundamentals | BTK Academy | Oct 2025 |
-| 🗣️ English Certificate | Amasya University | Dec 2022 |
+## ◈ CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ercanpolatt&theme=tokyo-night&bg_color=0d0d0d&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🌟 Services I Offer
-
 <div align="center">
 
-| 🤖 AI Engineering | 🌐 Full Stack Dev | 📊 Data Science | 📱 Mobile Dev |
-|---|---|---|---|
-| Intelligent systems | End-to-end web apps | Data analysis | Android & iOS |
-| ML model design | Frontend + Backend | Predictive models | React Native |
-| LLM integration | REST APIs | Data visualization | Flutter |
-| AI automation | Scalable architecture | Statistical insights | Cross-platform |
+## ◈ ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=ercanpolatt&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 Current Goals & Focus
-
-- 🔭 **Working on:** AI-powered web applications combining LLMs and modern frameworks
-- 🌱 **Learning:** Advanced machine learning, MLOps, and cloud architectures
-- 👯 **Looking to collaborate:** Open-source AI/ML and Full Stack projects
-- 💬 **Ask me about:** React, Python, AI/ML, Data Science, Mobile Development
-- ⚡ **Fun fact:** Coffee is my favorite debugging tool ☕
-
----
-
-## 📫 Let's Connect!
-
 <div align="center">
 
-<a href="https://ercanpolatt.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-2c5364?style=for-the-badge"/>
-</a>
+## ◈ LET'S CONNECT
 
-<a href="https://www.linkedin.com/in/ercan-polat-841049223/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ercanpolat.tr@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br/><br/>
-
-*💡 Always open to discussing new projects, creative ideas, or opportunities to be part of your vision!*
-
-*I typically respond within 24 hours.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://ercanpolatt.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ercan-polat-841049223/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ercanpolat.tr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ercanpolatt)
+[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/SENIN_TWITTER)
+[![Medium](https://img.shields.io/badge/Medium-0d0d0d?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@SENIN_MEDIUM)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/SENIN_KAGGLE)
 
 </div>
 
 ---
 
-<!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0f3460,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
-
-⭐️ **From [ercanpolatt](https://github.com/ercanpolatt) with ❤️**
-
+  <sub><i>Build with intention. Scale with intelligence.</i></sub>
 </div>
