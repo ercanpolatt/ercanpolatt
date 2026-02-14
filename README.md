@@ -19,68 +19,21 @@
 
 </div>
 
-\`\`\`python
-class ErcanPolat:
-    def __init__(self):
-        self.name        = "Ercan Polat"
-        self.role        = ["AI Engineer", "Full Stack Developer", "System Thinker"]
-        self.location    = "Turkey 🇹🇷"
-        self.focus       = ["Artificial Intelligence", "ML Systems", "Scalable Architectures"]
-        self.motto       = "Build with intention. Scale with intelligence."
 
-    def current_work(self):
-        return {
-            "building"  : "Intelligent, data-driven systems",
-            "learning"  : "Advanced ML & LLM architectures",
-            "exploring" : "AI agents & autonomous pipelines",
-        }
-\`\`\`
+<p> ## Who Am I?
 
----
+I am a Computer Engineer focused on building intelligent and scalable systems.  
+My primary interests lie in Artificial Intelligence, Machine Learning, and modern Full Stack development.
 
-<div align="center">
+I approach engineering as structured problem solving — designing systems that are efficient, maintainable, and impactful.
 
-## ◈ CORE STACK
+Currently, I am exploring advanced ML architectures, AI agents, and data-driven applications while continuously improving my software engineering foundations.
+</p>
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00f0ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00f0ff)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00f0ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00f0ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=00f0ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00f0ff)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=00f0ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=00f0ff)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=00f0ff)
-
-**Data & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00f0ff)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=00f0ff)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00f0ff)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00f0ff)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00f0ff)
-
-</div>
-
----
 
 <div align="center">
 
 ## ◈ ENGINEERING STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=ercanpolatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanpolatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&text_color=ffffff" height="180"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanpolatt&theme=black-ice&hide_border=true&background=0d0d0d&stroke=00f0ff&ring=00f0ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=888888" height="180"/>
 
@@ -116,9 +69,7 @@ class ErcanPolat:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ercan-polat-841049223/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ercanpolat.tr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ercanpolatt)
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/SENIN_TWITTER)
-[![Medium](https://img.shields.io/badge/Medium-0d0d0d?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@SENIN_MEDIUM)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/SENIN_KAGGLE)
+
 
 </div>
 
@@ -129,3 +80,9 @@ class ErcanPolat:
 <div align="center">
   <sub><i>Build with intention. Scale with intelligence.</i></sub>
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ercanpolatt/ercanpolatt/output/github-contribution-grid-snake-dark.svg" />
+</p>
